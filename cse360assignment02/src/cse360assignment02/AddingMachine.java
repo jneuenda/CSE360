@@ -4,7 +4,7 @@ public class AddingMachine {
 	  private int total;
 	  
 	  /**
-	  *Addingmachine calls the add and subtract
+	  *Addingmachine initiates the adding machine object 
 	  * methods to do arithmetic 
 	  **/
 	  public AddingMachine () {
